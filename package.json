@@ -1,0 +1,19 @@
+{
+  "name": "clarkdavid_wdv4200_assignment_3_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwilightCitizen/ClarkDavid_WDV4200_Assignment_3_1.git"
+  },
+  "author": "David A. Clark, Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TwilightCitizen/ClarkDavid_WDV4200_Assignment_3_1/issues"
+  },
+  "homepage": "https://github.com/TwilightCitizen/ClarkDavid_WDV4200_Assignment_3_1#readme"
+}
