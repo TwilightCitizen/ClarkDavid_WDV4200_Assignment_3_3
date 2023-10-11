@@ -1,5 +1,5 @@
 {
-  "name": "clarkdavid_wdv4200_assignment_3_1",
+  "name": "clarkdavid_wdv4200_assignment_3_2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TwilightCitizen/ClarkDavid_WDV4200_Assignment_3_1.git"
+    "url": "git+https://github.com/TwilightCitizen/ClarkDavid_WDV4200_Assignment_3_2.git"
   },
   "author": "David A. Clark, Jr.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TwilightCitizen/ClarkDavid_WDV4200_Assignment_3_1/issues"
+    "url": "https://github.com/TwilightCitizen/ClarkDavid_WDV4200_Assignment_3_2/issues"
   },
-  "homepage": "https://github.com/TwilightCitizen/ClarkDavid_WDV4200_Assignment_3_1#readme"
+  "homepage": "https://github.com/TwilightCitizen/ClarkDavid_WDV4200_Assignment_3_2#readme"
 }
