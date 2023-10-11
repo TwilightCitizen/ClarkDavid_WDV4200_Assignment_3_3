@@ -9,10 +9,9 @@ Assignment 3.1
 const http = require("http")
 
 // Environment Secrets
-// require("dotenv").config();
+require("dotenv").config();
 
-// Hard-Coded Secrets
-const API_KEY = "2ed3de690cmsh86a3d018b8e5ab2p1dee19jsncdb3cc1784e2"
+const API_KEY = process.env.API_KEY
 
 // Other Constants
 const SERVER_HOST = "127.0.0.1"
